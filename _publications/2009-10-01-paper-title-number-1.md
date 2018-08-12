@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Collisions as Information Sources in Densely Packed Multi-Robot Systems Under Mean-Field Approximations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-siddharth-collisions-as-information-sources-rss
+excerpt: 'As the spatial scale of robots decrease in multirobot systems, collisions cease to be catastrophic events that need to be avoided at all costs. This implies that less conservative, coordinated control strategies can be employed, where collisions are not only tolerated, but can potentially be harnessed as an information source. In this paper, we follow this line of inquiry by employing collisions as a sensing modality that provides information about the robots’ surroundings. We envision a collection of robots moving around with no sensors other than binary, tactile sensors that can determine if a collision occurred, and let the robots use this information to determine their locations. We apply a probabilistic localization technique based on mean-field approximations that allows each robot to maintain and update a probability distribution over all possible locations. Simulations and real multi-robot experiments illustrate the feasibility of the proposed approach, and demonstrate how collisions in multi-robot systems can indeed be employed as useful information sources.'
+date: 2017
+venue: 'Robotics: Science and Systems 2017'
+paperurl: 'http://www.roboticsproceedings.org/rss13/p44.pdf'
+citation: 'Siddharth Mayya, Pietro Pierpaoli, Girish Nair, and Magnus Egerstedt. Collisions as Information Sources in Densely Packed Multi-Robot Systems Under Mean-Field Approximations. In Proceedings of Robotics: Science and Systems, Cambridge, Massachusetts, July 2017. doi:10.15607/RSS.2017.XIII.044.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+As the spatial scale of robots decrease in multirobot systems, collisions cease to be catastrophic events that need to be avoided at all costs. This implies that less conservative, coordinated control strategies can be employed, where collisions are not only tolerated, but can potentially be harnessed as an information source. In this paper, we follow this line of inquiry by employing collisions as a sensing modality that provides information about the robots’ surroundings. We envision a collection of robots moving around with no sensors other than binary, tactile sensors that can determine if a collision occurred, and let the robots use this information to determine their locations. We apply a probabilistic localization technique based on mean-field approximations that allows each robot to maintain and update a probability distribution over all possible locations. Simulations and real multi-robot experiments illustrate the feasibility of the proposed approach, and demonstrate how collisions in multi-robot systems can indeed be employed as useful information sources.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://www.roboticsproceedings.org/rss13/p44.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Siddharth Mayya, Pietro Pierpaoli, Girish Nair, and Magnus Egerstedt. Collisions as Information Sources in Densely Packed Multi-Robot Systems Under Mean-Field Approximations. In Proceedings of Robotics: Science and Systems, Cambridge, Massachusetts, July 2017. doi:10.15607/RSS.2017.XIII.044.
