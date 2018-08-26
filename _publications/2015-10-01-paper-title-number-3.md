@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Localization In Densely Packed Swarms using Inter-Robot Collisions as a Sensing Modality"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2017-localization-collisions-tro
+excerpt: 'As the size of robots decreases in multi-robot systems, collisions cease to be catastrophic events that need to be avoided at all costs. This implies that less conservative, coordinated control strategies can be employed, where collisions are not only tolerated, but can potentially be harnessed as an information source. In this paper, we follow this line of inquiry by employing collisions as a sensing modality that provides information about the robots’ surroundings. We envision a collection of robots moving around with no sensors other than binary, tactile sensors that can determine if a collision occurred, and let the robots use this information to determine their locations. We apply a probabilistic localization technique based on mean-field approximations that allows each robot to maintain and update a probability distribution over all possible locations. Simulations and real multi-robot experiments illustrate the feasibility of the proposed approach. '
+date: 2018-23-08
+venue: 'Transactions on Robotics '
+paperurl: ''
+citation: Invited Journal Article. Accepted for Publication. To Appear 2018.
 ---
-This paper is about the number 3. The number 4 is left for future work.
+As the size of robots decreases in multi-robot systems, collisions cease to be catastrophic events that need to be avoided at all costs. This implies that less conservative, coordinated control strategies can be employed, where collisions are not only tolerated, but can potentially be harnessed as an information source. In this paper, we follow this line of inquiry by employing collisions as a sensing modality that provides information about the robots’ surroundings. We envision a collection of robots moving around with no sensors other than binary, tactile sensors that can determine if a collision occurred, and let the robots use this information to determine their locations. We apply a probabilistic localization technique based on mean-field approximations that allows each robot to maintain and update a probability distribution over all possible locations. Simulations and real multi-robot experiments illustrate the feasibility of the proposed approach.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Accepted for Publication. To Appear 2018.
