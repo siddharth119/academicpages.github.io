@@ -11,6 +11,6 @@ Hi! I am a PhD candidate working with Dr.Magnus Egerstedt at the Georgia Institu
 
 My work is inspired by insect colonies which demonstrate remarkable capabilities in situations where individuals use simple local encounters to infer something about the swarm and take appropriate actions.
 
-I have a Master's degree from Georgia Tech during which I worked with Dr. Magnus Egerstedt on algorithms for robust autonomy in centralized mult-robot networks. I have a Bachelor's degree from the Manipal Institute of Technology in India.
+I have a Master's degree from Georgia Tech during which I worked with Dr. Magnus Egerstedt on algorithms for robust autonomy in centralized multi-robot networks. I have a Bachelor's degree from the Manipal Institute of Technology in India.
 
 I am in the process of updating the website. Please check back soon!
