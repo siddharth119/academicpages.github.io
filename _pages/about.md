@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a PhD candidate working with Dr.Magnus Egerstedt at the Georgia Institute of Technology in Atlanta, USA. My research as a part of the GRITS Lab, is focused on studying how large teams of robots can use extremely limited local interactions to perform useful tasks. Inspired by nature, the ultimate aim is to developed robust decentralized swarm robotic networks which can survive in the real world for long periods of time.
+I am a PhD candidate at Georgia Tech working in the [GRITS Lab](http://gritslab.gatech.edu/home/) with Dr. [Magnus Egerstedt](http://magnus.ece.gatech.edu/). My research is focused on studying how large teams of robots can use extremely limited local interactions to perform useful tasks like localization, task allocation and density regulation. I use ideas from physics and biology to model the physical encounters occurring among robots in a swarm. The ultimate aim is to develop robust decentralized swarm robotic systems which can survive in the real world for long periods of time. More information on my current and past projects can be found [here](research).
 
-My work is inspired by insect colonies which demonstrate remarkable capabilities in situations where individuals use simple local encounters to infer something about the swarm and take appropriate actions.
+I have a Master's degree from Georgia Tech during which I developed algorithms for robust autonomy in centralized multi-robot networks. I have a Bachelor's degree from the Manipal Institute of Technology in India.
 
-I have a Master's degree from Georgia Tech during which I worked with Dr. Magnus Egerstedt on algorithms for robust autonomy in centralized multi-robot networks. I have a Bachelor's degree from the Manipal Institute of Technology in India.
-
-I am in the process of updating the website. Please check back soon!
+Outside of the lab, I love spending time outdoors, be it hiking, playing tennis or challenging myself to a long run! I am passionate about traveling to new places, and engaging in local traditions from different parts of the world.
