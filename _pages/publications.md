@@ -18,7 +18,7 @@ author_profile: true
 - **Siddharth Mayya**, Pietro Pierpaoli, Girish Nair, and Magnus Egerstedt. Collisions as Information Sources in Densely Packed Multi-Robot Systems Under Mean-Field 		Approximations. *Proceedings of Robotics: Science and Systems, Cambridge, Massachusetts, July 2017.*
 - **Siddharth Mayya** and Magnus Egerstedt. Safe open-loop strategies for handling intermittent communications in multi-robot systems. *Proceedings of the IEEE International
 		Conference on Robotics and Automation (ICRA) 2017, pages 5818--5823.*
-- Smit Kamal, Karun Potty, Chandrasekhar Nagarajan, **Siddharth Mayya**, and Adheesh Boratkar. Descent modeling and attitude control of a tethered nano-satellite. *Proceedings of the IEEE Aerospace Conference 2013, pages 1--14
+- Smit Kamal, Karun Potty, Chandrasekhar Nagarajan, **Siddharth Mayya**, and Adheesh Boratkar. Descent modeling and attitude control of a tethered nano-satellite. *Proceedings of the IEEE Aerospace Conference 2013, pages 1--14*
 
 ### Thesis
 - **Siddharth Mayya**. Safe open-loop strategies for handling intermittent communications in multi-robot systems. *Masters Thesis, Georgia Institute of Technology, 2016.*
