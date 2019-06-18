@@ -10,7 +10,7 @@ author_profile: true
 - **Siddharth Mayya**, Pietro Pierpaoli, Girish Nair, and Magnus Egerstedt. [Localization in densely packed swarms using interrobot collisions as a sensing modality](https://ieeexplore.ieee.org/document/8485322). *IEEE Transactions on Robotics, vol. 35, no. 1, pp. 21–34, Feb 2019.*
 
 ### Refereed Conference publications
-- Maria Santos, **Siddharth Mayya**, Gennaro Notomista, and Magnus Egerstedt. Decentralized Minimum Energy Coverage Control for Time-Varying Density Functions. *Submitted, IEEE International Symposium on Multi-robot and Multi-agent Systems (MRS) 2019.*
+- Maria Santos, **Siddharth Mayya**, Gennaro Notomista, and Magnus Egerstedt. Decentralized Minimum Energy Coverage Control for Time-Varying Density Functions. *Accepted for Publication, IEEE International Symposium on Multi-robot and Multi-agent Systems (MRS) 2019.*
 - **Siddharth Mayya**, Gennaro Notomista, Dylan Shell, Seth Hutchinson, and Magnus Egerstedt. Non-Uniform Robot Densities in Vibration Driven Swarms Using Phase Separation Theory. *Submitted, IEEE International Conference on Intelligent Robots and Systems (IROS) 2019. Preprint available at: arXiv:1902.10662, Feb 2019.*
 - Gennaro Notomista, **Siddharth Mayya**, Anirban Mazumdar, Seth Hutchinson, and Magnus Egerstedt. A Study of a Class of Vibration-Driven Robots: Modeling, Analysis, Control and Design of the Brushbot. *Submitted, IEEE International Conference on Intelligent Robots and Systems (IROS) 2019. Preprint available at: arXiv:1902.10830, Feb 2019.*
 - Gennaro Notomista, **Siddharth Mayya**, Seth Hutchinson, and Magnus Egerstedt. An optimal task allocation strategy for heterogeneous multi-robot systems. *Accepted for Publication, European Control Conference (ECC) 2019.*
