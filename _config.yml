@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Mayya"
 title_separator          : "-"
 name                     : &name "Siddharth Mayya"
-description              : &description "PhD Candidate at Georgia Institute of Technology"
+description              : &description "Post Doctoral Researcher at the University of Pennsylvania"
 url                      : https://siddharth119.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddharth119/siddharth119.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Siddharth Mayya"
   avatar           : "headshot.jpg"
-  bio              : "PhD Candidate at Georgia Institute of Technology"
-  location         : "Atlanta, GA, USA"
+  bio              : "Post Doctoral Researcher at the University of Pennsylvania"
+  location         : "Philadelphia, PA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=WdpTN60AAAAJ&hl=en&oi=ao"
-  email            : siddharth.mayya@gatech.edu
+  email            : mayya@seas.upenn.edu
   uri              :
   bitbucket        :
   codepen          :
