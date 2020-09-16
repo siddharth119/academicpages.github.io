@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ### Refereed Journal publications
--  **Siddharth Mayya**, David Saldaña, Vijay Kumar. [Resilient Task Allocation in Heterogeneous Multi-robot Systems](https://arxiv.org/abs/2009.04593). *IEEE Robotics and Automation Letters. Submitted, 2020. Preprint available at arXiv:2009.04593*.
-- Gennaro Notomista, **Siddharth Mayya**, Yousef Emam, Christopher Kroninger, Addison Bohannon, Seth Hutchinson, Magnus Egerstedt. A Resilient and Energy-Aware Task Allocation Framework for Heterogeneous Multi-Robot Systems. *IEEE Transactions on Robotics. Submitted, 2020*.
--  María Santos, Gennaro Notomista, **Siddharth Mayya**, Magnus Egerstedt. Interactive Multi-Robot Painting Through Colored Motion Trails. *Frontiers in Robotics and AI. Accepted for Publication, To Appear 2020*.
+-  **Siddharth Mayya**, David Saldaña, and Vijay Kumar. [Resilient Task Allocation in Heterogeneous Multi-robot Systems](https://arxiv.org/abs/2009.04593). *IEEE Robotics and Automation Letters. Submitted, 2020. Preprint available at arXiv:2009.04593*.
+- Gennaro Notomista, **Siddharth Mayya**, Yousef Emam, Christopher Kroninger, Addison Bohannon, Seth Hutchinson, and Magnus Egerstedt. A Resilient and Energy-Aware Task Allocation Framework for Heterogeneous Multi-Robot Systems. *IEEE Transactions on Robotics. Submitted, 2020*.
+-  María Santos, Gennaro Notomista, **Siddharth Mayya**, and Magnus Egerstedt. Interactive Multi-Robot Painting Through Colored Motion Trails. *Frontiers in Robotics and AI. Accepted for Publication, To Appear 2020*.
 - Sean Wilson, Paul Glotfelter, Li Wang, **Siddharth Mayya**, Gennaro Notomista, Mark Mote, and Magnus Egerstedt. [The Robotarium: Opportunities, challenges, and lessons learned in remote-access, distributed control of multi-robot systems](https://ieeexplore.ieee.org/document/8960572). *IEEE Control Systems Magazine, 40(1) (2020): 26-44.*
 - **Siddharth Mayya**, Sean Wilson, and Magnus Egerstedt. [Closed-loop task allocation in robot swarms using inter-robot encounters](https://link.springer.com/article/10.1007/s11721-019-00166-x). *Swarm Intelligence, vol. 13, no. 2, pp. 115-143, June 2019.*
 - **Siddharth Mayya**, Pietro Pierpaoli, Girish Nair, and Magnus Egerstedt. [Localization in densely packed swarms using interrobot collisions as a sensing modality](https://ieeexplore.ieee.org/document/8485322). *IEEE Transactions on Robotics, vol. 35, no. 1, pp. 21–34, Feb 2019.*
